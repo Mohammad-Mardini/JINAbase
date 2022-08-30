@@ -1,6 +1,6 @@
 # JINAbase
 
-JINAbase is a database for metal-poor stars originally hosted on a webapp at [jinabase.pythonanywhere.com](jinabase.pythonanywhere.com). This 
+JINAbase is a database for metal-poor stars originally hosted on a webapp at [jinabase.pythonanywhere.com](jinabase.pythonanywhere.com).
 
 :one: updates
 -------------
