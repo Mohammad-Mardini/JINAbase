@@ -5,7 +5,16 @@ JINAbase is a database for metal-poor stars originally hosted on a webapp at [ji
 -------------
 This Webpage provides the most recent added papers to JINAbase. Please note that the formatting in the "JINAbase_2021.csv" is heavily based on the original format of [jinabase.pythonanywhere.com](https://jinabase.pythonanywhere.com).
 
-:two: TODO
+:two: We are here to help
+-------------------------
+If you encounter any errors or have any suggestions to help improve the database and the web application please contact us.
+
+[Dr. Mohmmad Mardini](mailto:mardini_mohammad@hotmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+ 
+[Prof. Anna Frebel](mailto:afrebel@mit.edu?subject=[GitHub]%20Source%20Han%20Sans)
+
+
+:three: TODO
 -------------
 (1) How to query a table using [Astropy Astronomical Coordinate Systems](https://docs.astropy.org/en/stable/coordinates/index.html)
 
